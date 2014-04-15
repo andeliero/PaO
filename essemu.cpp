@@ -19,7 +19,7 @@ void essemu::insertGtr(guitar* gtr){
 	if(ac)
 		cout<<"inserito una chitarra acustica."<<endl;
 	mag.push_front(gtr);
-	sortbyName();
+	//sortbyName(); //forse si può utilizzare nell'ordinamento di colonna della tabella
 }
 
 void essemu::changeGtr(int pos,int tp){

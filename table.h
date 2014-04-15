@@ -20,7 +20,7 @@ public:
 	void refreshRows(deque<element*>);
 public slots:
 	void addElement();
-	void remElement();
+	void removeRow(int);
 signals:
 	void changed();
 };

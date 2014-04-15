@@ -78,7 +78,7 @@ void mainwindow::newFile(){
 	NRow->setEnabled(true);
 	connect(NRow,SIGNAL(triggered()),this,SLOT(addElement()));
 	DRow->setEnabled(true);
-	connect(DRow,SIGNAL(triggered()),tbl,SLOT(remElement()));
+	connect(DRow,SIGNAL(triggered()),tbl,SLOT(removeRow(int)));
 	//connect(tbl,SIGNAL(cellActivated(int,int)),this,SLOT(changeState(int,int)));
 	connect(tbl,SIGNAL(changed()),this,SLOT(changeState()));
 	Search->setEnabled(true);

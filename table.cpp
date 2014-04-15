@@ -44,11 +44,10 @@ void table::refreshRows(deque<element*> dt){
 		setCellWidget(i,6, dt[i]->getPickUpW() );
 		setCurrentCell(i,0);
 	}
-	update();
-
 }
 
-void table::remElement(){
-	int a = currentRow();
-	cnt->removeGuitar(rodt[a]);
+void table::removeRow(int a){//reimplementazione del metodo di QTableWidget
+	a=currentRow();
+	//cnt->removeGuitar(a);
+	QTableWidget::removeRow(a);
 }
