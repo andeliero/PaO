@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QDb>
+    <electric>
+        <modello>Jackson Dynky</modello>
+        <corde>6</corde>
+        <prezzo>400.00</prezzo>
+        <ponte>FloydRose tremolo</ponte>
+        <pickup>SeymourDuncan JB90</pickup>
+    </electric>
+    <electric>
+        <modello>Jackson RR</modello>
+        <corde>7</corde>
+        <prezzo>930.00</prezzo>
+        <ponte>FloydRose Xtreme</ponte>
+        <pickup>EMG</pickup>
+    </electric>
+    <electric>
+        <modello>Charvel</modello>
+        <corde>6</corde>
+        <prezzo>400.00</prezzo>
+        <ponte>FloydRose tremolo</ponte>
+        <pickup>DiMarzio Boost</pickup>
+    </electric>
+    <electric>
+        <modello>Gibson Double SG</modello>
+        <corde>12</corde>
+        <prezzo>1200.00</prezzo>
+        <ponte>Tune o matic</ponte>
+        <pickup>SeymourDuncan JB95</pickup>
+    </electric>
+    <acoustic>
+        <modello>Fender Villager</modello>
+        <corde>12</corde>
+        <prezzo>360.00</prezzo>
+        <amplificabile>0</amplificabile>
+        <ponte>Compensated Bone Saddle</ponte>
+    </acoustic>
+    <electric>
+        <modello>Jackson Dynky</modello>
+        <corde>6</corde>
+        <prezzo>400.00</prezzo>
+        <ponte>FloydRose tremolo</ponte>
+        <pickup>SeymourDuncan JB90</pickup>
+    </electric>
+    <acoustic>
+        <modello>Fender Villager</modello>
+        <corde>12</corde>
+        <prezzo>360.00</prezzo>
+        <amplificabile>0</amplificabile>
+        <ponte>Compensated Bone Saddle</ponte>
+    </acoustic>
+    <electric>
+        <modello>Jackson Dynky</modello>
+        <corde>6</corde>
+        <prezzo>400.00</prezzo>
+        <ponte>FloydRose tremolo</ponte>
+        <pickup>SeymourDuncan JB90</pickup>
+    </electric>
+    <acoustic>
+        <modello>Fender Villager</modello>
+        <corde>12</corde>
+        <prezzo>360.00</prezzo>
+        <amplificabile>0</amplificabile>
+        <ponte>Compensated Bone Saddle</ponte>
+    </acoustic>
+    <acoustic>
+        <modello>Gibson Country</modello>
+        <corde>6</corde>
+        <prezzo>700.00</prezzo>
+        <amplificabile>1</amplificabile>
+        <ponte>Compensated Bone Saddle</ponte>
+    </acoustic>
+    <acoustic>
+        <modello>Gibson Country</modello>
+        <corde>6</corde>
+        <prezzo>700.00</prezzo>
+        <amplificabile>1</amplificabile>
+        <ponte>Compensated Bone Saddle</ponte>
+    </acoustic>
+    <acoustic>
+        <modello>Fender Villager</modello>
+        <corde>12</corde>
+        <prezzo>360.00</prezzo>
+        <amplificabile>1</amplificabile>
+        <ponte>Compensated Bone Saddle</ponte>
+    </acoustic>
+</QDb>
